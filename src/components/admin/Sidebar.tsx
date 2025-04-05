@@ -25,7 +25,7 @@ export const Sidebar = () => {
   return (
     <div className="fixed left-0 top-0 h-full w-[88px] bg-black flex flex-col items-center py-8 text-white">
       <div className="mb-12">
-        <span className="text-xl font-bold font-['Karla']">Cona</span>
+        <span className="text-xl font-bold font-['Karla']">cvflow</span>
       </div>
       
       <nav className="flex flex-col items-center space-y-8">

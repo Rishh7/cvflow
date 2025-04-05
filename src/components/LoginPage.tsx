@@ -189,7 +189,7 @@ const LoginPage = ({
         >
           <div className="text-center space-y-4">
             <h1 className="text-6xl font-bold font-karla bg-gradient-to-r from-[#FBF5DD] to-[#AAA591] bg-clip-text text-transparent">
-              Cona
+              cvflow
             </h1>
             <p className="text-xl font-medium font-inconsolata text-secondary tracking-wider">
               CV Ordering and Numbering Application
