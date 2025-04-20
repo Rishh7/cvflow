@@ -189,10 +189,10 @@ const LoginPage = ({
         >
           <div className="text-center space-y-4">
             <h1 className="text-6xl font-bold font-karla bg-gradient-to-r from-[#FBF5DD] to-[#AAA591] bg-clip-text text-transparent">
-              cvflow
+              CVFlow
             </h1>
             <p className="text-xl font-medium font-inconsolata text-secondary tracking-wider">
-              CV Ordering and Numbering Application
+              CV Management Application
             </p>
           </div>
         </motion.div>
@@ -311,7 +311,7 @@ const LoginPage = ({
 
       <div className="absolute bottom-4 w-full text-center">
         <p className="text-sm text-white">
-          Created by Aadhith CJ, Sameer, Nafiya
+          Created by Anandu - Hanan -  Hrishikesh
         </p>
       </div>
     </div>

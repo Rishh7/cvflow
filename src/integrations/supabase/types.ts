@@ -82,7 +82,8 @@ export type Database = {
           references?: string | null
           requirements_match?: number | null
           skills: string[]
-          status?: string | null
+          status?: string | null nm
+          
           theme?: string | null
           updated_at?: string | null
           user_id?: string | null

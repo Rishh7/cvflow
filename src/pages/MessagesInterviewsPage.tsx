@@ -65,7 +65,7 @@ const MessagesInterviewsPage = () => {
         throw error;
       }
       
-      return data || { company_name: "cvflow" }; // Default if no settings found
+      return data || { company_name: "CVFlow" }; // Default if no settings found
     },
   });
 
@@ -231,7 +231,7 @@ const MessagesInterviewsPage = () => {
         throw cvError;
       }
 
-      const companyName = settings?.company_name || "cvflow";
+      const companyName = settings?.company_name || "CVFlow";
       
       // Send a notification message about the interview to the applicant
       const interview = existingInterview ? "rescheduled" : "scheduled";
